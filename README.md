@@ -30,8 +30,12 @@ The output data was plotted on a map, providing visual representation of the att
 
 <h2>Environments Used </h2>
 
-- <b> Cisco packet tracer </b> (21H2)
--  <b> MS Word </b> (21H2)
+- <b> Azure Portal </b> (21H2)
+- <b> Azure Virtual Machine </b> (21H2)
+-  <b> Azure Analytic Workkspace </b> (21H2)
+-  <b> Azure Sentinal  </b> (21H2)
+-  <b> Microsoft Remote Desktop </b> (21H2)
+-  <b> Windows PowerShell </b> (21H2)
 
 <h2> Lab walk-through:</h2>
 
