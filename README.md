@@ -40,13 +40,13 @@ The output data was plotted on a map, providing visual representation of the att
 <h2> Lab walk-through:</h2>
 
 <p align="center">
- </b>1. Azure Portal - VM Creation (Windows): <br/>
-<img src="https://i.imgur.com/w78UT98.png" width="80%" alt=" Virtual Machine"/>
+ </b>  Azure Portal - VM Creation (Windows): <br/>
+<img src="https://i.imgur.com/JhJ5sp1.png" width="80%" alt=" Virtual Machine"/>
 <br />
 <br />
 <p align="center">
- </b> Capturing Dynamic IP Address Assignments: <br/>
-<img src="https://i.imgur.com/OksBAHb.png?1 " height="80%" width="80%" alt="hospitality Network"/>
+ </b>  Remote Desktop Access to Honeypot <br/>
+<img src="https://i.imgur.com/K5hbsqw.png" height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 <p align="center">
