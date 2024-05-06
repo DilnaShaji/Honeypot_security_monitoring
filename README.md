@@ -56,13 +56,34 @@ The output data was plotted on a map, providing visual representation of the att
 <br />
 <p align="center">
 </b> PowerShell Code for Collecting RDP Logs <br/>
-<img src="blob:https://imgur.com/8969f561-e456-4c81-af58-1faffb7dd45a " height="80%" width="80%" alt="hospitality Network"/>
+<img src=" https://i.imgur.com/cl9jQqi.png" height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 
 <p align="center">
-</b> Displaying VLAN Settings and Assignment <br/>
-<img src="https://i.imgur.com/0mBzyoO.png " height="80%" width="80%" alt="hospitality Network"/>
+</b> Windows Event Viewer - Failed RDP Log Extraction <br/>
+<img src="https://i.imgur.com/Z6Yb1Vo.png " height="80%" width="80%" alt="hospitality Network"/>
+<br />
+<br />
+<p align="center">
+</b>  Custom Log - Sample Data from Failed RDP Logs <br/>
+<img src=" " height="80%" width="80%" alt="hospitality Network"/>
+<br />
+<br />
+<p align="center">
+</b> Custom Columns - Longitude, Latitude, Country, Labels <br/>
+<img src=" " height="80%" width="80%" alt="hospitality Network"/>
+<br />
+<br />
+<p align="center">
+</b> Azure Sentinel Query - Threat Identification <br/>
+<img src=" " height="80%" width="80%" alt="hospitality Network"/>
+<br />
+<br />
+
+<p align="center">
+</b> Plotting RDP Attack Data on Map <br/>
+<img src=" " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 
