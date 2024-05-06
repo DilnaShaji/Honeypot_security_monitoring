@@ -76,11 +76,6 @@ The output data was plotted on a map, providing visual representation of the att
 <img src="https://i.imgur.com/ARY47RF.png" height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
-<p align="center">
-</b> Azure Sentinel Query - Threat Identification <br/>
-<img src=" " height="80%" width="80%" alt="hospitality Network"/>
-<br />
-<br />
 
 <p align="center">
 </b> Plotting RDP Attack Data on Map <br/>
