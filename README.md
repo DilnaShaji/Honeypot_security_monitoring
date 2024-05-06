@@ -62,7 +62,7 @@ The output data was plotted on a map, providing visual representation of the att
 
 <p align="center">
 </b> Windows Event Viewer - Failed RDP Log Extraction <br/>
-<img src=" https://i.imgur.com/6iRLdAR.png " height="80%" width="80%" alt=" Failed Log"/>
+<img src="https://i.imgur.com/6iRLdAR.png" height="80%" width="80%" alt=" Failed Log"/>
 <br />
 <br />
 
