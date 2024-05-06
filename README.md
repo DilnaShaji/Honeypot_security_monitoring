@@ -62,17 +62,17 @@ The output data was plotted on a map, providing visual representation of the att
 
 <p align="center">
 </b> Windows Event Viewer - Failed RDP Log Extraction <br/>
-<img src="https://i.imgur.com/Z6Yb1Vo.png " height="80%" width="80%" alt="hospitality Network"/>
+<img src=" https://i.imgur.com/Z6Yb1Vo.png " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 <p align="center">
 </b>  Custom Log - Sample Data from Failed RDP Logs <br/>
-<img src=" " height="80%" width="80%" alt="hospitality Network"/>
+<img src=" https://i.imgur.com/1MvrPLg.png " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 <p align="center">
 </b> Custom Columns - Longitude, Latitude, Country, Labels <br/>
-<img src=" " height="80%" width="80%" alt="hospitality Network"/>
+<img src=" https://i.imgur.com/1MvrPLg.png " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 <p align="center">
