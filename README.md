@@ -30,18 +30,18 @@ The output data was plotted on a map, providing visual representation of the att
 
 <h2>Environments Used </h2>
 
-- <b> Azure Portal </b> (21H2)
-- <b> Azure Virtual Machine </b> (21H2)
--  <b> Azure Analytic Workkspace </b> (21H2)
--  <b> Azure Sentinal  </b> (21H2)
--  <b> Microsoft Remote Desktop </b> (21H2)
--  <b> Windows PowerShell </b> (21H2)
+- <b> Azure Portal </b> 
+- <b> Azure Virtual Machine </b> 
+-  <b> Azure Analytic Workkspace </b> 
+-  <b> Azure Sentinal  </b> 
+-  <b> Microsoft Remote Desktop </b> 
+-  <b> Windows PowerShell </b> 
 
 <h2> Lab walk-through:</h2>
 
 <p align="center">
- </b>Network Topology: <br/>
-<img src="https://i.imgur.com/uerLHq7.png?1 " height="80%" width="80%" alt="hospitality Network"/>
+ </b>1. Azure Portal - VM Creation (Windows): <br/>
+<img src="https://imgur.com/sYxe750"/>
 <br />
 <br />
 <p align="center">
