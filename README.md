@@ -50,8 +50,8 @@ The output data was plotted on a map, providing visual representation of the att
 <br />
 <br />
 <p align="center">
-</b> Analyzing Network Configuration and Connectivity <br/>
-<img src="https://i.imgur.com/eS2pawF.png " height="80%" width="80%" alt="hospitality Network"/>
+</b> 4. IP Geolocation Service - Threat Detection <br/>
+<img src="https://i.imgur.com/AosERbK.png " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 <p align="center">
