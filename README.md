@@ -73,7 +73,7 @@ The output data was plotted on a map, providing visual representation of the att
 <br />
 <p align="center">
 </b> Custom Columns - Longitude, Latitude, Country, Labels <br/>
-<img src="https://i.imgur.com/1MvrPLg.png" height="80%" width="80%" alt="hospitality Network"/>
+<img src="https://i.imgur.com/ARY47RF.png" height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 <p align="center">
