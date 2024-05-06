@@ -56,7 +56,7 @@ The output data was plotted on a map, providing visual representation of the att
 <br />
 <p align="center">
 </b> PowerShell Code for Collecting RDP Logs <br/>
-<img src=" https://i.imgur.com/cl9jQqi.png" height="80%" width="80%" alt=" PowerShell"/>
+<img src="https://i.imgur.com/G5Jp5Ah.png" height="80%" width="80%" alt=" PowerShell"/>
 <br />
 <br />
 
