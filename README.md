@@ -46,25 +46,26 @@ The output data was plotted on a map, providing visual representation of the att
 <br />
 <p align="center">
  </b>  Remote Desktop Access to Honeypot <br/>
-<img src="https://i.imgur.com/K5hbsqw.png" height="80%" width="80%" alt="hospitality Network"/>
+<img src="https://i.imgur.com/K5hbsqw.png" height="80%" width="80%" alt=" Remote Desktop"/>
 <br />
 <br />
 <p align="center">
 </b> IP Geolocation Service - Threat Detection <br/>
-<img src="https://i.imgur.com/AosERbK.png " height="80%" width="80%" alt="hospitality Network"/>
+<img src="https://i.imgur.com/AosERbK.png " height="80%" width="80%" alt=" Geolocation-IP"/>
 <br />
 <br />
 <p align="center">
 </b> PowerShell Code for Collecting RDP Logs <br/>
-<img src=" https://i.imgur.com/cl9jQqi.png" height="80%" width="80%" alt="hospitality Network"/>
+<img src=" https://i.imgur.com/cl9jQqi.png" height="80%" width="80%" alt=" PowerShell"/>
 <br />
 <br />
 
 <p align="center">
 </b> Windows Event Viewer - Failed RDP Log Extraction <br/>
-<img src=" https://i.imgur.com/Z6Yb1Vo.png " height="80%" width="80%" alt="hospitality Network"/>
+<img src=" https://i.imgur.com/Z6Yb1Vo.png " height="80%" width="80%" alt=" Failed Log"/>
 <br />
 <br />
+
 <p align="center">
 </b>  Custom Log - Sample Data from Failed RDP Logs <br/>
 <img src=" https://i.imgur.com/1MvrPLg.png " height="80%" width="80%" alt="hospitality Network"/>
