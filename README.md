@@ -84,7 +84,7 @@ The output data was plotted on a map, providing visual representation of the att
 
 <p align="center">
 </b> Plotting RDP Attack Data on Map <br/>
-<img src=" " height="80%" width="80%" alt="hospitality Network"/>
+<img src="https://i.imgur.com/jSWxp8f.png" height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 
