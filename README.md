@@ -50,13 +50,13 @@ The output data was plotted on a map, providing visual representation of the att
 <br />
 <br />
 <p align="center">
-</b> 4. IP Geolocation Service - Threat Detection <br/>
+</b> IP Geolocation Service - Threat Detection <br/>
 <img src="https://i.imgur.com/AosERbK.png " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 <p align="center">
-</b> Displaying Interface IP Addresses and Status <br/>
-<img src="https://i.imgur.com/x0Ai9t1.png " height="80%" width="80%" alt="hospitality Network"/>
+</b> PowerShell Code for Collecting RDP Logs <br/>
+<img src="blob:https://imgur.com/8969f561-e456-4c81-af58-1faffb7dd45a " height="80%" width="80%" alt="hospitality Network"/>
 <br />
 <br />
 
