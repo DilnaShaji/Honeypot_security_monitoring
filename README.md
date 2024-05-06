@@ -41,7 +41,7 @@ The output data was plotted on a map, providing visual representation of the att
 
 <p align="center">
  </b>1. Azure Portal - VM Creation (Windows): <br/>
-<img src="https://imgur.com/a/jDuVHTY.png" width="80%" alt=" Virtual Machine"/>
+<img src="https://i.imgur.com/w78UT98.png" width="80%" alt=" Virtual Machine"/>
 <br />
 <br />
 <p align="center">
